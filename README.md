@@ -1,10 +1,25 @@
-# Getting Started with Create React App
+# Getting Started with React-App Extension
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a boilerplate template that aims to assist developers get started with developing Google chrome extensions.
 
-## Available Scripts
+![](./Screenshot%20from%202022-11-11%2020-38-27.png)
 
-In the project directory, you can run:
+## Getting started
+
+- To get started with this template click on `Use this Template`
+- select `create a new repository`
+- Clone your repository to your local computer
+- run `npm start`
+- run `npm run build`
+- Open google chrome
+- click on `options` > `More tools` > `Extensions`
+- Make sure `Developer mode` is on
+- select `Load unpacked`
+- select this directory in your local computer open the folder and select the `build` folder.
+- Go to your extensions & find an extension with the name `react-app extension`
+- pin it
+- click on the React icon.
+
 
 ### `npm start`
 
